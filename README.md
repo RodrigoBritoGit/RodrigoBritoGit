@@ -17,12 +17,14 @@ Estou constantemente buscando aprender novas tecnologias e aprimorar minhas habi
 
 Sou altamente dedicado, focado e motivado a enfrentar desafios complexos. Tenho facilidade em aprender novas tecnologias e estou sempre em busca de oportunidades para me atualizar e crescer profissionalmente. Acredito na importância do trabalho em equipe e estou sempre disposto a colaborar e compartilhar conhecimento com os colegas.
 
-## Contato: ##
+## Contato
+
 Se você está em busca de um desenvolvedor apaixonado por tecnologia e com vontade de fazer a diferença, ficarei feliz em colaborar! Você pode me contatar através dos seguintes meios:
 
-📧 Email: [seuemail@example.com](mailto:rodrigodossantosbrito@hotmail.com)  
-📱 WhatsApp: [+55 11932918085]  
-🔗 LinkedIn: [linkedin.com/in/rodrigobrito](https://www.linkedin.com/in/rodrigo-brito-19bb54136/)  
-💻 GitHub: [github.com/RodrigoBritoGit](https://github.com/RodrigoBritoGit)
+- 📧 Email: rodrigodossantosbrito@hotmail.com
+- 📱 WhatsApp: +55 11 93291-8085
+- 🔗 LinkedIn: [linkedin.com/in/rodrigo-brito-19bb54136/](https://www.linkedin.com/in/rodrigo-brito-19bb54136/)
+- 💻 GitHub: [github.com/RodrigoBritoGit](https://github.com/RodrigoBritoGit)
 
-Vamos construir algo incrível juntos! 🌟😊
+Vamos construir algo incrível juntos! 🚀🚀
+
