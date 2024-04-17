@@ -4,7 +4,7 @@ Olá! 👋 Sou Rodrigo Brito, um entusiasta de tecnologia e desenvolvimento de s
 
 ## Tecnologias
 
-Possuo experiência e habilidades em diversas tecnologias, incluindo:
+Possuo experiências e habilidades em diversas tecnologias, incluindo:
 
 - **Frontend:** HTML, CSS, JavaScript, React, Next.js, Angular, Bootstrap, Tailwind CSS, Materialize CSS, Thymeleaf.
 - **Backend:** Node.js, Java, PHP, Laravel, Blade, Prisma.io, Spring Boot, Spring Data, Spring JPA, Spring Hibernate.
