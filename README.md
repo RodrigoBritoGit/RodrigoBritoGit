@@ -9,6 +9,7 @@ Possuo experiências e habilidades em diversas tecnologias, incluindo:
 - **Frontend:** HTML, CSS, JavaScript, React, Next.js, Angular, Bootstrap, Tailwind CSS, Materialize CSS, Thymeleaf.
 - **Backend:** Node.js, Java, PHP, Laravel, Blade, Prisma.io, Spring Boot, Spring Data, Spring JPA, Spring Hibernate.
 - **Bancos de Dados:** MySQL, PostgreSQL, MongoDB.
+- **Arquitetura:** Monolito e Microserviços.
 - **Outras Ferramentas:** Git/GitHub/GitLab, AWS (Cloud), Docker (Infraestrutura), Testes Unitários.
 
 Estou constantemente buscando aprender novas tecnologias e aprimorar minhas habilidades para desenvolver soluções de alta qualidade e eficiência.
