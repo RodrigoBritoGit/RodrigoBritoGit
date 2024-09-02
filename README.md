@@ -10,7 +10,8 @@ Possuo experiências e habilidades em diversas tecnologias, incluindo:
 - **Backend:** Node.js, Java, PHP, Laravel, Blade, Prisma.io, Spring Boot, Spring Data, Spring JPA, Spring Hibernate.
 - **Bancos de Dados:** MySQL, PostgreSQL, MongoDB.
 - **Arquitetura:** Monolíticos e Microsserviços.
-- **Outras Ferramentas:** Git/GitHub/GitLab, AWS (Cloud), Docker (Infraestrutura), Testes Unitários.
+- **Mensageria:** RabbitMQ.
+- **Outras Ferramentas:** Git/GitHub/GitLab, AWS (Cloud), Docker (Infraestrutura), Testes Unitários com Junit e Mockito.
 
 Estou constantemente buscando aprender novas tecnologias e aprimorar minhas habilidades para desenvolver soluções de alta qualidade e eficiência.
 
