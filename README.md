@@ -1,6 +1,6 @@
 # Rodrigo Brito - Desenvolvedor de Software Fullstack
 
-Olá! 👋 Sou Rodrigo Brito, um entusiasta de tecnologia e desenvolvimento de software apaixonado por desafios e por criar soluções inovadoras. Sou formado em Análise e Desenvolvimento de Sistemas pela Universidade Cruzeiro do Sul, tenho mais de 4 anos de experiência como DEV e estou sempre buscando me manter atualizado com as novas tendências do mercado .
+Olá! 👋 Sou Rodrigo Brito, um entusiasta de tecnologia e desenvolvimento de software apaixonado por desafios e por criar soluções inovadoras. Sou formado em Análise e Desenvolvimento de Sistemas pela Universidade Cruzeiro do Sul, tenho mais de 5 anos de experiência como DEV e estou sempre buscando me manter atualizado com as novas tendências do mercado .
 
 ## Tecnologias
 
